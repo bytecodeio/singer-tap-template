@@ -1,4 +1,5 @@
 {
   "project_name": "e.g. 'tap-facebook'",
-  "package_name": "{{cookiecutter.project_name.replace('-','_')}}"
+  "package_name": "{{cookiecutter.project_name.replace('-','_')}}",
+  "package_description": "Singer.io tap for extracting data"
 }
